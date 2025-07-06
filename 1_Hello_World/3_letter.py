@@ -1,4 +1,4 @@
-# Snail Mail 💌
+# SHere is a style of Mail you can print on Terminal.
 
 print('+---------------------------------------------------------------------+')
 print('|                                                          June 2022  |')
