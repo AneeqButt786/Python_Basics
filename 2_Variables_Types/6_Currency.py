@@ -1,4 +1,6 @@
 """
+Here is a mini project for your practice.
+
 Currency Converter is used to find the currencies in USD Dollars ($)
 """
 pesos = int(input('What do you have left in pesos? '))

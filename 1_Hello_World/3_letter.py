@@ -1,4 +1,6 @@
-# SHere is a style of Mail you can print on Terminal.
+# Here is a mini project for your practice.
+
+# Style of Mail you can print on Terminal.
 
 print('+---------------------------------------------------------------------+')
 print('|                                                          June 2022  |')

@@ -1,4 +1,6 @@
 '''
+Here is a mini project for your practice.
+
 The Pythagorean Theorem 📐 is used to find the length of a side in a right-angled triangle.
 '''
 a = int(input("Enter a: "))
