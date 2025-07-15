@@ -60,7 +60,7 @@ You're encouraged to contribute — submit pull requests with your own solutions
 - `fizz_buzz.ipynb`  
 
 
-### 🧮 Functions  
+<!-- ### 🧮 Functions  
 - `dry.ipynb`  
 - `fortune_cookie.ipynb` (2 solutions)  
 - `rocket.ipynb`  
@@ -83,7 +83,7 @@ You're encouraged to contribute — submit pull requests with your own solutions
 - `forty_two.ipynb`  
 - `zen.ipynb`  
 
----
+--- -->
 
 💡 **Explore. Learn. Contribute.**  
 This repository is designed to help new learners gain confidence with Python fundamentals. Fork it, explore it, and make it your own!
