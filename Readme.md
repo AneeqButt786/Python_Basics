@@ -52,38 +52,5 @@ You're encouraged to contribute — submit pull requests with your own solutions
 - `Park_Ride_Checker.ipynb` (2 solutions)  
 - `Sorting_Hat.ipynb` (2 solutions)  
 
-### 🔁 Loops  
-- `enter_pin.ipynb`  
-- `guess_number.ipynb`  
-- `detention.ipynb`  
-- `99_bottles.ipynb`  
-- `fizz_buzz.ipynb`  
-
-
-<!-- ### 🧮 Functions  
-- `dry.ipynb`  
-- `fortune_cookie.ipynb` (2 solutions)  
-- `rocket.ipynb`  
-- `calculator.ipynb`  
-- `stonks.ipynb`  
-- `drive_thru.ipynb`  
-
-### 🧱 Classes & Objects  
-- `restaurants.ipynb`  
-- `bobs_burgers.ipynb`  
-- `favorite_cities.ipynb`  
-- `bank_accounts.ipynb`  
-- `pokedex.ipynb` (2 solutions)  
-
-### 📦 Modules  
-- `slot_machine.ipynb` (2 solutions)  
-- `solar_system.ipynb`  
-- `bday_messages.ipynb` *(for Exercise 41)*  
-- `main.ipynb` *(for Exercise 41)*  
-- `forty_two.ipynb`  
-- `zen.ipynb`  
-
---- -->
-
 💡 **Explore. Learn. Contribute.**  
 This repository is designed to help new learners gain confidence with Python fundamentals. Fork it, explore it, and make it your own!
